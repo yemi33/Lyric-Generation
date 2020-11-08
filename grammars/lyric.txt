@@ -1,0 +1,38 @@
+lyrics -><verse>\n\n<pre-chorus @pre-chorus>\n\n<@pre-chorus>\n\n<chorus @chorus>\n\n<@chorus>\n\n<hook>\n\n<@pre-chorus>\n\n<@pre-chorus>
+
+verse -><lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>
+
+pre-chorus-><lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric>
+
+chorus-><lyric>\n<lyric>\n<lyric>\n<lyric>\n<lyric @chorusly>
+
+hook-><@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>\n<@chorusly>
+
+lyric -><simple>|<complex>|<question>
+
+simple -><verb-present> and <verb-present>|I <verb-past> <obj-pronoun>|I'll <verb-present> <obj-pronoun> <noun-singular>|Baby, you <verb-present> <a-noun-singular>|<verb-present> me what I must <verb-present>|I look like <noun-singular>|I <verb-present> you|You make me feel like <noun-singular>|I got <noun-plural>|<adj-phrase>|I want <noun-phrase>
+
+complex -><verb-ing> all these <noun-plural> I go <verb-ing>|<verb-ing> so <adjective>, yeah|best <verb-present> <obj-pronoun> <verb-present> <obj-pronoun>|<count>, you gotta <verb-present> me|<verb-phrase>|Don't wanna <verb-present> about <obj-pronoun>|You got to <verb-present> me <verb-past>|<calling-word> we gon <verb-phrase @verbie>, we gon <@verbie>, look|I <negative> <verb-present> for no one but I <verb-present> for you|<adjective>, you don't <verb-present> no <noun-singular>|The <adjective> <noun-plural> in life are already mine|<preposition> you <verb-present> <a-noun-singular>|<time>, let's <verb-present> all the <noun-plural>|You got a <adjective> <noun-singular>, I <negative> <verb-present>|I'm <adj-phrase>|Don't <verb-present> <preposition>
+
+question ->Why <negative> you <verb-present> so?|How you <verb-present> <obj-pronoun>?|You <verb-present> I'm your <noun-singular>, <interjection>?|You want the <noun-singular>?|Who here gon <verb-present>?
+
+verb-phrase ->mind your business|hit me up|pull up|put up with you|play dumb|keep them tuned
+
+noun-phrase ->no one else|tough luck
+
+adj-phrase ->over you|out of control|on the loose|out of touch|in your feelings|tired of waiting
+
+verb-present ->$verbs_present.txt
+verb-past ->$verbs_past.txt
+verb-ing ->$verbs_ing.txt
+obj-pronoun ->him|her|me|you|it
+noun-singular ->$nouns.txt
+a-noun-singular ->$a-nouns.txt
+noun-plural ->$nouns_plural.txt
+adjective ->$adjectives.txt
+count ->one|two|three|four|five|six|seven
+calling-word ->honey|baby|babe|boo|bae|sugar 
+negative ->don't|wouldn't|couldn't|can't
+preposition ->$prepositions.txt
+time ->tonight|tomorrow
+interjection ->right|huh|yeah
