@@ -9,7 +9,7 @@ def lyric():
         print(f"{output_list[i]}")
 
 
-def grade():
-    """The function James will be using to grade your component."""
+def generate_lyric():
+    """The function that generates the lyrics."""
     print("\n\n-- Lyric -- ")
     lyric()
